@@ -1,0 +1,159 @@
+{"level":30,"time":"2024-01-29T11:48:38.882Z","pid":22444,"hostname":"Pri","msg":"Listening on 53352"}
+{"level":30,"time":"2024-01-29T11:48:39.110Z","pid":22444,"hostname":"Pri","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-29T11:48:39.111Z","pid":22444,"hostname":"Pri","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-29T11:48:39.114Z","pid":22444,"hostname":"Pri","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-29T11:48:39.114Z","pid":22444,"hostname":"Pri","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-29T11:48:39.120Z","pid":22444,"hostname":"Pri","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2024-01-29T11:48:40.102Z","pid":22444,"hostname":"Pri","msg":"Adding browser to stack: chromium, version: 120.0.6099.28"}
+{"level":30,"time":"2024-01-29T11:48:40.103Z","pid":22444,"hostname":"Pri","msg":"End of node method newBrowser"}
+{"level":30,"time":"2024-01-29T11:48:40.103Z","pid":22444,"hostname":"Pri","msg":"Adding 0 contexts to browser"}
+{"level":30,"time":"2024-01-29T11:48:40.110Z","pid":22444,"hostname":"Pri","msg":"Start of node method newPage"}
+{"level":30,"time":"2024-01-29T11:48:40.110Z","pid":22444,"hostname":"Pri","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2024-01-29T11:48:40.131Z","pid":22444,"hostname":"Pri","msg":"Changed active context"}
+{"level":30,"time":"2024-01-29T11:48:40.413Z","pid":22444,"hostname":"Pri","msg":"Video path: undefined"}
+{"level":30,"time":"2024-01-29T11:48:40.414Z","pid":22444,"hostname":"Pri","msg":"Changed active page"}
+{"level":30,"time":"2024-01-29T11:48:41.414Z","pid":22444,"hostname":"Pri","msg":"End of node method newPage"}
+{"level":30,"time":"2024-01-29T11:48:41.419Z","pid":22444,"hostname":"Pri","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-01-29T11:48:41.419Z","pid":22444,"hostname":"Pri","msg":"Strict mode is enabled, find Locator with css=h1 >> text=Cuidado e diversão em cada passo in page."}
+{"level":30,"time":"2024-01-29T11:48:41.466Z","pid":22444,"hostname":"Pri","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-01-29T11:48:41.472Z","pid":22444,"hostname":"Pri","msg":"Start of node method click"}
+{"level":30,"time":"2024-01-29T11:48:41.472Z","pid":22444,"hostname":"Pri","msg":"Strict mode is enabled, find Locator with css=a[href=\"/signup\"] in page."}
+{"level":30,"time":"2024-01-29T11:48:41.589Z","pid":22444,"hostname":"Pri","msg":"End of node method click"}
+{"level":30,"time":"2024-01-29T11:48:41.593Z","pid":22444,"hostname":"Pri","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-01-29T11:48:41.593Z","pid":22444,"hostname":"Pri","msg":"Strict mode is enabled, find Locator with form h1 in page."}
+{"level":30,"time":"2024-01-29T11:48:41.604Z","pid":22444,"hostname":"Pri","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-01-29T11:48:41.608Z","pid":22444,"hostname":"Pri","msg":"Start of node method getText"}
+{"level":30,"time":"2024-01-29T11:48:41.608Z","pid":22444,"hostname":"Pri","msg":"Strict mode is enabled, find Locator with form h1 in page."}
+{"level":30,"time":"2024-01-29T11:48:41.648Z","pid":22444,"hostname":"Pri","msg":"Retrieved text for element form h1 containing Faça seu cadastro"}
+{"level":30,"time":"2024-01-29T11:48:41.649Z","pid":22444,"hostname":"Pri","msg":"End of node method getText"}
+{"level":30,"time":"2024-01-29T11:48:41.657Z","pid":22444,"hostname":"Pri","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-01-29T11:48:41.657Z","pid":22444,"hostname":"Pri","msg":"Strict mode is enabled, find Locator with css=input[name=name] in page."}
+{"level":30,"time":"2024-01-29T11:48:41.688Z","pid":22444,"hostname":"Pri","msg":"End of node method fillText"}
+{"level":30,"time":"2024-01-29T11:48:41.692Z","pid":22444,"hostname":"Pri","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-01-29T11:48:41.693Z","pid":22444,"hostname":"Pri","msg":"Strict mode is enabled, find Locator with css=input[name=email] in page."}
+{"level":30,"time":"2024-01-29T11:48:41.719Z","pid":22444,"hostname":"Pri","msg":"End of node method fillText"}
+{"level":30,"time":"2024-01-29T11:48:41.722Z","pid":22444,"hostname":"Pri","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-01-29T11:48:41.722Z","pid":22444,"hostname":"Pri","msg":"Strict mode is enabled, find Locator with css=input[name=cpf] in page."}
+{"level":30,"time":"2024-01-29T11:48:41.743Z","pid":22444,"hostname":"Pri","msg":"End of node method fillText"}
+{"level":30,"time":"2024-01-29T11:48:41.751Z","pid":22444,"hostname":"Pri","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-01-29T11:48:41.751Z","pid":22444,"hostname":"Pri","msg":"Strict mode is enabled, find Locator with css=input[name=cep] in page."}
+{"level":30,"time":"2024-01-29T11:48:41.769Z","pid":22444,"hostname":"Pri","msg":"End of node method fillText"}
+{"level":30,"time":"2024-01-29T11:48:41.772Z","pid":22444,"hostname":"Pri","msg":"Start of node method click"}
+{"level":30,"time":"2024-01-29T11:48:41.772Z","pid":22444,"hostname":"Pri","msg":"Strict mode is enabled, find Locator with css=input[type=button][value=\"Buscar CEP\"] in page."}
+{"level":30,"time":"2024-01-29T11:48:41.818Z","pid":22444,"hostname":"Pri","msg":"End of node method click"}
+{"level":30,"time":"2024-01-29T11:48:41.822Z","pid":22444,"hostname":"Pri","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-29T11:48:41.822Z","pid":22444,"hostname":"Pri","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-29T11:48:41.836Z","pid":22444,"hostname":"Pri","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-29T11:48:41.836Z","pid":22444,"hostname":"Pri","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-29T11:48:41.848Z","pid":22444,"hostname":"Pri","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-29T11:48:41.848Z","pid":22444,"hostname":"Pri","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-29T11:48:41.855Z","pid":22444,"hostname":"Pri","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-29T11:48:41.855Z","pid":22444,"hostname":"Pri","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-29T11:48:41.868Z","pid":22444,"hostname":"Pri","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-29T11:48:41.868Z","pid":22444,"hostname":"Pri","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-29T11:48:41.880Z","pid":22444,"hostname":"Pri","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-29T11:48:41.880Z","pid":22444,"hostname":"Pri","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-29T11:48:41.894Z","pid":22444,"hostname":"Pri","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-29T11:48:41.894Z","pid":22444,"hostname":"Pri","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-29T11:48:41.914Z","pid":22444,"hostname":"Pri","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-29T11:48:41.914Z","pid":22444,"hostname":"Pri","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-29T11:48:41.928Z","pid":22444,"hostname":"Pri","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-29T11:48:41.929Z","pid":22444,"hostname":"Pri","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-29T11:48:41.947Z","pid":22444,"hostname":"Pri","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-29T11:48:41.947Z","pid":22444,"hostname":"Pri","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-29T11:48:41.962Z","pid":22444,"hostname":"Pri","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-29T11:48:41.962Z","pid":22444,"hostname":"Pri","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-29T11:48:41.978Z","pid":22444,"hostname":"Pri","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-29T11:48:41.978Z","pid":22444,"hostname":"Pri","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-29T11:48:41.990Z","pid":22444,"hostname":"Pri","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-29T11:48:41.990Z","pid":22444,"hostname":"Pri","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-29T11:48:42.001Z","pid":22444,"hostname":"Pri","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-29T11:48:42.001Z","pid":22444,"hostname":"Pri","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-29T11:48:42.013Z","pid":22444,"hostname":"Pri","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-29T11:48:42.013Z","pid":22444,"hostname":"Pri","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-29T11:48:42.023Z","pid":22444,"hostname":"Pri","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-29T11:48:42.023Z","pid":22444,"hostname":"Pri","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-29T11:48:42.035Z","pid":22444,"hostname":"Pri","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-29T11:48:42.035Z","pid":22444,"hostname":"Pri","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-29T11:48:42.041Z","pid":22444,"hostname":"Pri","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-29T11:48:42.041Z","pid":22444,"hostname":"Pri","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-29T11:48:42.053Z","pid":22444,"hostname":"Pri","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-29T11:48:42.053Z","pid":22444,"hostname":"Pri","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-29T11:48:42.064Z","pid":22444,"hostname":"Pri","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-29T11:48:42.064Z","pid":22444,"hostname":"Pri","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-29T11:48:42.076Z","pid":22444,"hostname":"Pri","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-29T11:48:42.076Z","pid":22444,"hostname":"Pri","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-29T11:48:42.087Z","pid":22444,"hostname":"Pri","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-29T11:48:42.087Z","pid":22444,"hostname":"Pri","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-29T11:48:42.099Z","pid":22444,"hostname":"Pri","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-29T11:48:42.099Z","pid":22444,"hostname":"Pri","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-29T11:48:42.108Z","pid":22444,"hostname":"Pri","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-29T11:48:42.108Z","pid":22444,"hostname":"Pri","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-29T11:48:42.120Z","pid":22444,"hostname":"Pri","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-29T11:48:42.120Z","pid":22444,"hostname":"Pri","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-29T11:48:42.131Z","pid":22444,"hostname":"Pri","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-29T11:48:42.131Z","pid":22444,"hostname":"Pri","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-29T11:48:42.143Z","pid":22444,"hostname":"Pri","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-29T11:48:42.143Z","pid":22444,"hostname":"Pri","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-29T11:48:42.152Z","pid":22444,"hostname":"Pri","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-29T11:48:42.152Z","pid":22444,"hostname":"Pri","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-29T11:48:42.164Z","pid":22444,"hostname":"Pri","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-29T11:48:42.164Z","pid":22444,"hostname":"Pri","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-29T11:48:42.173Z","pid":22444,"hostname":"Pri","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-29T11:48:42.173Z","pid":22444,"hostname":"Pri","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-29T11:48:42.185Z","pid":22444,"hostname":"Pri","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-29T11:48:42.185Z","pid":22444,"hostname":"Pri","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-29T11:48:42.194Z","pid":22444,"hostname":"Pri","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-01-29T11:48:42.195Z","pid":22444,"hostname":"Pri","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-29T11:48:42.208Z","pid":22444,"hostname":"Pri","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-29T11:48:42.208Z","pid":22444,"hostname":"Pri","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-01-29T11:48:42.217Z","pid":22444,"hostname":"Pri","msg":"Retrieved dom property for element css=input[name=addressStreet] containing Rua Joaquim Floriano"}
+{"level":30,"time":"2024-01-29T11:48:42.217Z","pid":22444,"hostname":"Pri","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-29T11:48:42.220Z","pid":22444,"hostname":"Pri","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-29T11:48:42.220Z","pid":22444,"hostname":"Pri","msg":"Strict mode is enabled, find Locator with css=input[name=addressDistrict] in page."}
+{"level":30,"time":"2024-01-29T11:48:42.226Z","pid":22444,"hostname":"Pri","msg":"Retrieved dom property for element css=input[name=addressDistrict] containing Itaim Bibi"}
+{"level":30,"time":"2024-01-29T11:48:42.226Z","pid":22444,"hostname":"Pri","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-29T11:48:42.231Z","pid":22444,"hostname":"Pri","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-01-29T11:48:42.231Z","pid":22444,"hostname":"Pri","msg":"Strict mode is enabled, find Locator with css=input[name=addressCityUf] in page."}
+{"level":30,"time":"2024-01-29T11:48:42.237Z","pid":22444,"hostname":"Pri","msg":"Retrieved dom property for element css=input[name=addressCityUf] containing São Paulo/SP"}
+{"level":30,"time":"2024-01-29T11:48:42.237Z","pid":22444,"hostname":"Pri","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-01-29T11:48:42.241Z","pid":22444,"hostname":"Pri","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-01-29T11:48:42.241Z","pid":22444,"hostname":"Pri","msg":"Strict mode is enabled, find Locator with css=input[name=addressNumber] in page."}
+{"level":30,"time":"2024-01-29T11:48:42.255Z","pid":22444,"hostname":"Pri","msg":"End of node method fillText"}
+{"level":30,"time":"2024-01-29T11:48:42.258Z","pid":22444,"hostname":"Pri","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-01-29T11:48:42.258Z","pid":22444,"hostname":"Pri","msg":"Strict mode is enabled, find Locator with css=input[name=addressDetails] in page."}
+{"level":30,"time":"2024-01-29T11:48:42.273Z","pid":22444,"hostname":"Pri","msg":"End of node method fillText"}
+{"level":30,"time":"2024-01-29T11:48:42.275Z","pid":22444,"hostname":"Pri","msg":"Strict mode is enabled, find Locator with css=input[type=file] in page."}
+{"level":30,"time":"2024-01-29T11:48:42.304Z","pid":22444,"hostname":"Pri","msg":"Start of node method click"}
+{"level":30,"time":"2024-01-29T11:48:42.304Z","pid":22444,"hostname":"Pri","msg":"Strict mode is enabled, find Locator with css=.button-register in page."}
+{"level":30,"time":"2024-01-29T11:48:42.350Z","pid":22444,"hostname":"Pri","msg":"End of node method click"}
+{"level":30,"time":"2024-01-29T11:48:42.354Z","pid":22444,"hostname":"Pri","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2024-01-29T11:48:42.354Z","pid":22444,"hostname":"Pri","Take screenshot with options: ":{"path":"C:\\QAx\\projects\\walkdog-robot\\results\\browser\\screenshot\\robotframework-browser-screenshot-1.png","fileType":"png","fullPage":true,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2024-01-29T11:48:42.666Z","pid":22444,"hostname":"Pri","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2024-01-29T11:48:42.680Z","pid":22444,"hostname":"Pri","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-29T11:48:42.684Z","pid":22444,"hostname":"Pri","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-29T11:48:42.685Z","pid":22444,"hostname":"Pri","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-29T11:48:42.688Z","pid":22444,"hostname":"Pri","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-29T11:48:42.690Z","pid":22444,"hostname":"Pri","msg":"Changed active context"}
+{"level":30,"time":"2024-01-29T11:48:42.690Z","pid":22444,"hostname":"Pri","msg":"Changing current active page: page=6fccde51-8a28-4d50-8021-c4d514f277f6"}
+{"level":30,"time":"2024-01-29T11:48:42.690Z","pid":22444,"hostname":"Pri","msg":"Changed active page"}
+{"level":30,"time":"2024-01-29T11:48:42.698Z","pid":22444,"hostname":"Pri","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-29T11:48:42.701Z","pid":22444,"hostname":"Pri","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-29T11:48:42.703Z","pid":22444,"hostname":"Pri","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-01-29T11:48:42.704Z","pid":22444,"hostname":"Pri","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-01-29T11:48:42.706Z","pid":22444,"hostname":"Pri","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-01-29T11:48:42.706Z","pid":22444,"hostname":"Pri","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-01-29T11:48:42.708Z","pid":22444,"hostname":"Pri","msg":"Changing current active page: page=6fccde51-8a28-4d50-8021-c4d514f277f6"}
+{"level":30,"time":"2024-01-29T11:48:42.708Z","pid":22444,"hostname":"Pri","msg":"Changed active page"}
+{"level":30,"time":"2024-01-29T11:48:42.712Z","pid":22444,"hostname":"Pri","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-29T11:48:42.714Z","pid":22444,"hostname":"Pri","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-29T11:48:42.715Z","pid":22444,"hostname":"Pri","msg":"Changed active context"}
+{"level":30,"time":"2024-01-29T11:48:42.715Z","pid":22444,"hostname":"Pri","msg":"Changing current active page: page=6fccde51-8a28-4d50-8021-c4d514f277f6"}
+{"level":30,"time":"2024-01-29T11:48:42.715Z","pid":22444,"hostname":"Pri","msg":"Changed active page"}
+{"level":30,"time":"2024-01-29T11:48:42.717Z","pid":22444,"hostname":"Pri","msg":"Start of node method closeContext"}
+{"level":30,"time":"2024-01-29T11:48:42.737Z","pid":22444,"hostname":"Pri","msg":"Removed page=145fc439-1030-4983-9a4f-df02d369fb36 from context=79a79e8b-7c60-4436-a949-2140d33f1e9e page stack"}
+{"level":30,"time":"2024-01-29T11:48:42.770Z","pid":22444,"hostname":"Pri","msg":"End of node method closeContext"}
+{"level":30,"time":"2024-01-29T11:48:42.780Z","pid":22444,"hostname":"Pri","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-29T11:48:42.780Z","pid":22444,"hostname":"Pri","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-01-29T11:48:42.865Z","pid":22444,"hostname":"Pri","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2024-01-29T11:48:43.106Z","pid":22444,"hostname":"Pri","msg":"End of node method closeAllBrowsers"}
